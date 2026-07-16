@@ -1,7 +1,7 @@
-PROG = copy
-SRCS = copy.c
+PROG=	copy
+SRCS=	copy.c
 
-NOMAN = 1
+NOMAN=	1
 
 .include <bsd.prog.mk>
 
